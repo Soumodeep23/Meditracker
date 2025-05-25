@@ -118,25 +118,6 @@ To serve the React build from the backend, copy the `build/` folder to `medicine
 
 ---
 
-## Demo Video Script
-
-1. **Introduction:**
-   - Briefly introduce MediTracker and its purpose.
-2. **User Registration & Login:**
-   - Show the registration and login process.
-3. **Adding Medicines:**
-   - Demonstrate adding a new medicine with schedule and dosage.
-4. **Medicine List & Deletion:**
-   - Show the Home page with the list of medicines and the delete button.
-5. **SMS Notification:**
-   - Explain how SMS reminders are sent (show logs or phone if possible).
-6. **Profile & Logout:**
-   - Show user profile and logout.
-7. **Conclusion:**
-   - Summarize features and thank viewers.
-
----
-
 ## Notes & Limitations
 
 - **Twilio Trial:** SMS can only be sent to verified numbers on a Twilio trial account.
